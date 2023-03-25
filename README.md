@@ -1,11 +1,4 @@
-C - Binary trees
+## C - Binary trees
 
-Learning Objectives
-
-General
-What is a binary tree
-What is the difference between a binary tree and a Binary Search Tree
-What is the possible gain in terms of time complexity compared to linked lists
-What are the depth, the height, the size of a binary tree
-What are the different traversal methods to go through a binary tree
-What is a complete, a full, a perfect, a balanced binary tree
+*A data structure that consists of nodes, each of which has at most two child nodes, referred to as the left child and the right child.
+*Binary trees can be used for a variety of applications, including searching, sorting, and data compression. 
